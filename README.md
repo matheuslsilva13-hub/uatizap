@@ -7,7 +7,7 @@ O **Uatizap** é uma aplicação web simples inspirada no WhatsApp, composta por
 
 ## 📁 Estrutura do Projeto
 
-
+```text
 WPP/
 ├── db/
 │   └── connection.js      # Configuração da conexão com a base de dados MySQL
